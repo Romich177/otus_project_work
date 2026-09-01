@@ -59,7 +59,7 @@ DRAFT -> IN_REVIEW -> APPROVED -> PUBLISHED
 * ProductCreated
 * RecipeUpdated
 * ProductApproved
-* ProductPublished
+* ProductPublished.
 
 == 5. Подготовить систему к Transactional Outbox
 
